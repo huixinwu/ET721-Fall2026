@@ -98,7 +98,7 @@ def con(a,b):
 # call function con
 print(con("Bayside", "NY"))
 
-print("\n----- EXERCISE 1: LOOPS --------")
+print("\n----- EXERCISE 1: LOOP --------")
 """
 given the list animals, create a new list with animales whose names are made of less than or equal to 6 letters
 """
@@ -106,7 +106,7 @@ animals = ['lion', ' giraffe', 'gorilla', 'parrots', 'crocodile', 'deer', 'swan'
 newanimales = []
 
 
-print("\n----- EXERCISE 1: FUNCTIONS--------")
+print("\n----- EXERCISE 2: FUNCTION --------")
 # define a function to find and return the average of grades in list 'grades'
 # average = sum all the grades / lenght of the list 'grades'
 grade = [65, 87, 95, 77, 35]
